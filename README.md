@@ -50,4 +50,4 @@ The dataset consists of images categorized into 4 classes:
 4.  To launch the web app, run `Streamlit_App_Deployment.ipynb`.
 
 ---
-*Created by [Efe Can Donmez]*
+*Created by efecandonmez67
